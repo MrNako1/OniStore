@@ -74,3 +74,9 @@ body{
     outline: none;
     transition: all .4s;
 }
+.error{
+    color: #ff0000;
+}
+.error2{
+    color: #ff0000;
+}
